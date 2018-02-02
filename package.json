@@ -20,6 +20,7 @@
     "tslib": "1.8.1"
   },
   "devDependencies": {
+    "@types/expo": "24.0.4",
     "@types/fbemitter": "2.0.32",
     "@types/react": "16.0.33",
     "@types/react-native": "0.51.9",
